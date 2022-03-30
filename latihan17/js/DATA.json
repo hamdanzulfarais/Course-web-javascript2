@@ -1,0 +1,37 @@
+[
+    {
+        "nama" : "haamdaan zr",
+        "nrp" : "001",
+        "email" : "hzr4305103002@gmail.com",
+        "jurusan" : "Teknik Industri",
+        "IdMhs" : 1
+    },
+    {
+        "nama" : "Raymond",
+        "nrp" : "002",
+        "email" : "raymonanadar@gmail.com",
+        "jurusan" : "Teknik Mesin",
+        "IdMhs" : 2
+    },
+    {
+        "nama" : "Ardiansyah",
+        "nrp" : "0003",
+        "email" : "ardiansyah@gmail.com",
+        "jurusan" : "Teknik Elektro",
+        "IdMhs" : 3
+    },
+    {
+        "nama" : "Yudo margowo",
+        "nrp" : "004",
+        "email" : "Margowoy@gmail.com",
+        "jurusan" : "Teknik Fisika",
+        "IdMhs" : 4
+    },
+    {
+        "nama" : "sakala",
+        "nrp" : "005",
+        "email" : "sakala@gmail.com",
+        "jurusan" : "Teknik mekatronika",
+        "IdMhs" : 5
+    }
+]
